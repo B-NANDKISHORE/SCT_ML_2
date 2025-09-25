@@ -9,7 +9,7 @@ python app.py
 
 src/clustering.py
 
-This will generate customer segments and save the visualization in plots/customer_clusters.png.
+This will generate customer segments and save the visualization in customer_clusters.png.
 
 📊 Results
 

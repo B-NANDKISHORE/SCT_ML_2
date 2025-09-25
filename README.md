@@ -8,9 +8,11 @@ pip install -r requirements.txt
 python app.py
 
 src/clustering.py
+
 This will generate customer segments and save the visualization in plots/customer_clusters.png.
 
 📊 Results
+
 The dataset is clustered into 5 distinct customer groups:
 
 Cluster 0: Low income, low spending (budget-conscious shoppers)
@@ -35,6 +37,7 @@ matplotlib → Data visualization
 scikit-learn → K-Means clustering
 
 ✨ Future Improvements
+
 Include Age and Gender for richer segmentation
 
 Apply Elbow Method and Silhouette Score for optimal cluster selection
